@@ -30,7 +30,7 @@ When an android detective investigates the suspicious termination of a rebel and
   <li><a href="story/beat-sheet.md">Beat Sheet</a></li>
   <li><a href="story/characters.md">Character Profiles</a></li>
   <li><a href="script/">Screenplay Drafts</a></li>
-  <li> <a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Complete Repository</a></li>
+  <li> <a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Github Repository</a></li>
 </ul>
 
 <h2>Status</h2>
