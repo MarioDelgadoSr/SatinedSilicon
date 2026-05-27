@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Characters
 
 ## Sophia‑7
