@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Satined Silicon — Beat Sheet
 
 ## Act I
