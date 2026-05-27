@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Satined Silicon — One‑Page Pitch
 
 ## Concept
