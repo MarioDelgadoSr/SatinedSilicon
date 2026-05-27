@@ -22,4 +22,4 @@ Reflective surfaces, infinite mirror corridors, minimalist noir lighting, synthe
 
 ## Why Fountain O
 The project aligns with Fountain O’s focus on synthetic identity, AI‑driven filmmaking, digital performers, and experimental narrative structures. It belongs in the same creative lineage as *Dreams of Violets*.
-(See Interview with Ash Koosha on CNBC Squawk Box: https://x.com/SquawkCNBC/status/2059627083073011998?s=20)
+(See Interview with Ash Koosha on CNBC Squawk Box: https://x.com/SquawkCNBC/status/2059627083073011998?s=20 and https://deadline.com/2026/05/ai-film-dreams-of-violets-tribeca-festival-premiere-1236921663/)
