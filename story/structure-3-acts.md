@@ -1,4 +1,4 @@
-# Satined Silicon — 3‑Act Structure
+# Satined Silicon — 3 Act Structure
 
 ## Act I — The Call and the Clues
 - Sophia‑7 is assigned to investigate Satin‑9’s suspicious termination.
