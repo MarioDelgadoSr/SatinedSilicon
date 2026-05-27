@@ -16,7 +16,7 @@ layout: default
 </head>
 <body>
 
-<h1>Satined Silicon</h1> <a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Repository</a>
+<h1>Satined Silicon <a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Repository</a></h1>
 <p><strong>A short film exploring emergent AI deception, symbolic identity, and the birth of machine culture.</strong></p>
 
 <h2>Logline</h2>
