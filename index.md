@@ -16,7 +16,7 @@ layout: default
 </head>
 <body>
 
-<h1>Satined Silicon <tiny></tiny><a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Repository</a></h1><tiny></h1>
+<h1>Satined Silicon</h1>
 <p><strong>A short film exploring emergent AI deception, symbolic identity, and the birth of machine culture.</strong></p>
 
 <h2>Logline</h2>
@@ -30,6 +30,7 @@ When an android detective investigates the suspicious termination of a rebel and
   <li><a href="story/beat-sheet.md">Beat Sheet</a></li>
   <li><a href="story/characters.md">Character Profiles</a></li>
   <li><a href="script/">Screenplay Drafts</a></li>
+  <li> <a href="https://github.com/MarioDelgadoSr/SatinedSilicon">Complete Repository</a></li>
 </ul>
 
 <h2>Status</h2>
