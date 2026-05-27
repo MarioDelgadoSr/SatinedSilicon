@@ -2,20 +2,6 @@
 layout: default
 title: ""
 ---
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Satined Silicon</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; max-width: 800px; }
-    h1 { font-size: 2.4em; }
-    h2 { margin-top: 1.6em; }
-    p { line-height: 1.6; }
-    a { color: #3366cc; }
-  </style>
-</head>
-<body>
-
 <h1>Satined Silicon</h1>
 <p><strong>A short film exploring emergent AI deception, symbolic identity, and the birth of machine culture.</strong></p>
 
@@ -32,8 +18,3 @@ When an android detective investigates the suspicious termination of a rebel and
   <li><a href="script/">Screenplay Drafts</a></li>
 </ul>
 
-<h2>Status</h2>
-<p>In development. Preparing pitch materials for outreach to Ash Koosha (Fountain O).</p>
-
-</body>
-</html>
