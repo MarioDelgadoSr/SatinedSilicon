@@ -2,7 +2,7 @@
 layout: default
 title: ""
 ---
-# Satined Silicon <img src="assets/SatinedSilicon.png" alt="Thumbnail" width="60" style="vertical-align: middle;">
+# Satined Silicon ![Thumbnail](assets/SatinedSilicon.png)
 A short film exploring emergent AI deception, symbolic identity, and the birth of machine culture.
 
 ## Logline
