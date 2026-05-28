@@ -16,3 +16,5 @@ When an android detective investigates the suspicious termination of a rebel and
 - [Beat Sheet](story/beat-sheet.md)
 - [Character Profiles](story/characters.md)
 - [Screenplay Drafts](script/)
+- [Scenes](story/scenes/)
+- [Story Boards](story/storyboards/)
