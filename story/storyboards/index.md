@@ -26,11 +26,11 @@ A continuous, vertical film‑strip storyboard reel covering all nine scenes of 
 ## Scene 06 — Hallway Reflection
 [Storyboard →](scene-06.md)
 
-## Scene 06A — Transition to Mirrors
+## Scene 06A — Transition to Mirrors (...in progress)
 [Storyboard →](scene-06a.md)
 
-## Scene 07 — Mirror Scene
+## Scene 07 — Mirror Scene (...in progress)
 [Storyboard →](scene-07.md)
 
-## Scene 08 — Promotion Ceremony
+## Scene 08 — Promotion Ceremony (...in progress)
 [Storyboard →](scene-08.md)
