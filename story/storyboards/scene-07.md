@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ""
---
+title: "Scene 07 — The Mirror Corridor"
+---
 
 # Scene 07 — The Mirror Corridor
 ### Cinematic Sci-Fi Noir — Vertical Film Reel
