@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Scene 08 — The Promotion Ceremony (Denouement)"
+---
 # Scene 08 — The Promotion Ceremony (Denouement)
 **Setting:** INT. JUSTICE DIRECTORATE GRAND HALL — DAY (YEARS LATER)  
 **Tone:** Cinematic Sci-Fi Noir, Psychological
