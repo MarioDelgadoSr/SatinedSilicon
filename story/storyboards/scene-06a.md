@@ -8,7 +8,7 @@ title: "Scene 6a — Transition to Mirrors"
 
 The storyboard reel below tracks Sophia-7’s transition from the Directorate’s sterile halls to the threshold of the unknown, as she begins to question the autonomy of her own reflection.
 
-![Scene 6a Storyboard Reel](https://raw.githubusercontent.com/MarioDelgadoSr/SatinedSilicon/main/story/storyboards/scene-6a-reel.png)
+![Scene 6a Storyboard Reel](https://raw.githubusercontent.com/MarioDelgadoSr/SatinedSilicon/main/story/storyboards/scene-06a-reel.png)
 
 ---
 
