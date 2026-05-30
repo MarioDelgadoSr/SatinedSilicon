@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+--
+
 # Scene 07 — The Mirror Corridor
 ### Cinematic Sci-Fi Noir — Vertical Film Reel
 
