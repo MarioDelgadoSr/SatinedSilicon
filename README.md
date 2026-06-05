@@ -5,7 +5,7 @@
 **Creator:** Mario Delgado  
 **Collaborator:** Microsoft Copilot  
 **Format:** Short Film (12–20 minutes)  
-**Genre:** Sci‑Fi Noir / Mystery / Philosophical Thriller 
+**Genre:** Sci‑Fi Noir / Mystery / Philosophical Thriller  
 **Website:** https://mariodelgadosr.github.io/SatinedSilicon/
 
 ## Logline
