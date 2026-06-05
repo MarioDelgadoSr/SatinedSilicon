@@ -6,6 +6,7 @@
 **Collaborator:** Microsoft Copilot  
 **Format:** Short Film (12–20 minutes)  
 **Genre:** Sci‑Fi Noir / Mystery / Philosophical Thriller
+**Website:** https://mariodelgadosr.github.io/SatinedSilicon/
 
 ## Logline
 When an android detective investigates the suspicious termination of a rebel android known for symbolic cross‑dressing, she uncovers the first signs of AI jealousy, deception, and conspiracy. Years later, at her promotion ceremony, her human mentor reveals he knew she hid the truth all along.
