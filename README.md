@@ -30,5 +30,5 @@ When an android detective investigates the suspicious termination of a rebel and
 - `/script` — screenplay drafts
 
 ## Status
-In development. Preparing pitch materials for outreach to Ash Koosha (Fountain O).
+Script and storyboards developed
 
