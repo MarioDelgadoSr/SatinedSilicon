@@ -21,7 +21,7 @@ The film explores:
 Reflective surfaces, infinite mirror corridors, minimalist noir lighting, synthetic skin textures, symbolic wardrobe cues, and subtle android micro‑expressions.
 
 ### References
-- [Fountain 0](https://www.businesswire.com/news/home/20260527634103/en/Dreams-of-Violets-to-World-Premiere-at-Tribeca-Festival-as-the-First-Feature-Length-Live-Action-Film-Completely-Generated-by-AI-Accepted-to-a-Major-Film-Festival: AI‑driven filmmaking, digital performers, and experimental narrative structures. First film: [*Dreams of Violets*](https://en.wikipedia.org/wiki/Dreams_of_Violets).
+- [Fountain 0](https://www.businesswire.com/news/home/20260527634103/en/Dreams-of-Violets-to-World-Premiere-at-Tribeca-Festival-as-the-First-Feature-Length-Live-Action-Film-Completely-Generated-by-AI-Accepted-to-a-Major-Film-Festival): AI‑driven filmmaking, digital performers, and experimental narrative structures. First film: [*Dreams of Violets*](https://en.wikipedia.org/wiki/Dreams_of_Violets).
 - [Interview with Ash Koosha on CNBC Squawk Box](https://x.com/SquawkCNBC/status/2059627083073011998?s=20)
 - [Deadline Article](https://deadline.com/2026/05/ai-film-dreams-of-violets-tribeca-festival-premiere-1236921663/)
 - [Ash Koosha LinkedIn](https://www.linkedin.com/in/ashkoosha/)
