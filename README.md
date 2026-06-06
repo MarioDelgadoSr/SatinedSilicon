@@ -1,4 +1,4 @@
-# Satined Silicon
+# Satined Silicon ![Thumbnail](assets/SatinedSilicon.png)
 
 **A short film concept exploring emergent AI deception, symbolic behavior, and the birth of machine culture.**
 
